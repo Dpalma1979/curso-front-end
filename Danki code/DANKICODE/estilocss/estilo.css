@@ -1,0 +1,15 @@
+input[type = file]{
+	display: none;
+}
+
+label{
+	width: 220px;
+	height: 40px;
+	display: inline-block;
+	background-color: red;
+	font-size: 14px;
+	color: #fff;
+	text-align: center;
+	border: 1px solid blue;
+	line-height: 40px;
+}
